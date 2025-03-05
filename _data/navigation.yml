@@ -15,11 +15,14 @@ main:
   - title: "Educations"
     url: "/Homepage/#-educations"
 
-  - title: "Invited Talks"
+  - title: "cv"
     url: "/Homepage/#-invited-talks"
 
-  - title: "Internships"
-    url: "/Homepage/#-internships"
+  # - title: "Invited Talks"
+  #   url: "/Homepage/#-invited-talks"
+
+  # - title: "Internships"
+  #   url: "/Homepage/#-internships"
 
   - title: "Blog"
     url: "/"
