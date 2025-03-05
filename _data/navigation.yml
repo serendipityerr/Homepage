@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "About Me"
-    url: "https://serendipityerr.github.io/Homepage/#about-me"
+    url: "/#about-me"
 
   - title: "News"
     url: "/#-news"
