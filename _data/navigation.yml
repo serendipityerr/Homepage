@@ -15,8 +15,8 @@ main:
   - title: "Educations"
     url: "/Homepage/#-educations"
 
-  # - title: "cv"
-  #   url: "/Homepage/#-cv"
+  - title: "cv"
+    url: "/Homepage/cv"
 
   # - title: "Invited Talks"
   #   url: "/Homepage/#-invited-talks"
