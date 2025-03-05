@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+title                    : "Mokai Pan's Home Page"
+description              : "Hi, I'm a 4th-year CS undergraduate at School of Information and Technology at ShanghaiTech University. "
+repository               : "serendipityerr/Homepage"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Mokai Pan"
   avatar           : "images/avatar.png"
-  bio              : "Lorem ipsum College"
+  bio              : "ShanghaiTech University"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : serendipityerr # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
