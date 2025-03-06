@@ -31,6 +31,21 @@ Please find my [CV](/pdf/Resume_English.pdf) here for more about my research pro
 
 # 📝 Publications 
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/UniDB.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**UniDB: A Unified Diffusion Bridge Framework via Stochastic Optimal Control, arXiv:2502.05749**
+
+Kaizhen Zhu\#, Mokai Pan\#, Yuexin Ma, Yanwei Fu, Jingyi Yu, Jingya Wang, **Ye Shi\***
+
+[[**paper**]](https://arxiv.org/abs/2502.05749)
+[[**project**]](https://unidb-soc.github.io/UniDB_page)
+[[**code**]](https://github.com/UniDB-SOC/UniDB)
+
+</div>
+</div>
+
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
