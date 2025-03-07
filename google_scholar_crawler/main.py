@@ -17,6 +17,8 @@ with open(f'results/gs_data.json', 'w') as outfile:
 if 'citedby' not in author:
     print(1)
     author.setdefault('citedby', 0)
+
+print(f"{author['citedby']}")
 shieldio_data = {
   "schemaVersion": 1,
   "label": "citations",
