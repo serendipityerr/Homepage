@@ -31,16 +31,18 @@ Please find my [CV](/pdf/Resume_English.pdf) here for more about my research pro
 
 
 # 🔥 News
+- 2025.5: Our paper **UniDB: A Unified Diffusion Bridge Framework via Stochastic Optimal Control** accepted by **ICML 2025** as a **Spotlight**!🎉🎉
+- 2025.4: Our paper **UniDB** won **Outstanding Paper Award** of ICLR 2025 DeLTa Workshop!🎉🎉
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/UniDB.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025 Spotlight</div><img src='images/UniDB.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**UniDB: A Unified Diffusion Bridge Framework via Stochastic Optimal Control, arXiv:2502.05749**
+**UniDB: A Unified Diffusion Bridge Framework via Stochastic Optimal Control, ICML 2025 Spotlight**
 
 Kaizhen Zhu\#, Mokai Pan\#, Yuexin Ma, Yanwei Fu, Jingyi Yu, Jingya Wang, **Ye Shi\***
 
