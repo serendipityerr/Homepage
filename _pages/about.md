@@ -45,7 +45,7 @@ Please find my [CV](/pdf/Resume_English.pdf) here for more about my research pro
 
 **UniDB: A Unified Diffusion Bridge Framework via Stochastic Optimal Control, ICML 2025 Spotlight**
 
-Kaizhen Zhu\#, Mokai Pan\#, Yuexin Ma, Yanwei Fu, Jingyi Yu, Jingya Wang, **Ye Shi\***
+Kaizhen Zhu\#, **Mokai Pan\#**, Yuexin Ma, Yanwei Fu, Jingyi Yu, Jingya Wang, Ye Shi\*
 
 [[**paper**]](https://arxiv.org/abs/2502.05749)
 [[**project**]](https://unidb-soc.github.io/UniDB_page)
