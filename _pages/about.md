@@ -40,7 +40,7 @@ Please find my [CV](/pdf/Resume_English.pdf) here for more about my research pro
 # 📝 Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025 Spotlight</div><img src='images/UniDB_main.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025 Spotlight</div><img src='images/publication/UniDB_main.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **UniDB: A Unified Diffusion Bridge Framework via Stochastic Optimal Control, ICML 2025 Spotlight**
@@ -80,5 +80,5 @@ Kaizhen Zhu\#, **Mokai Pan\#**, Yuexin Ma, Yanwei Fu, Jingyi Yu, Jingya Wang, Ye
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-<!-- # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+# 💻 Research and Internships
+- 2024.04 - now, Undergraduate student in YesAI Lab, [VDI Center](https://vdi.sist.shanghaitech.edu.cn/) at ShanghaiTech University, Advisor: [Prof. Ye Shi(石野)](https://shiye21.github.io/)
