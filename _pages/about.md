@@ -73,7 +73,39 @@ Kaizhen Zhu\#, **Mokai Pan\#**, Yuexin Ma, Yanwei Fu, Jingyi Yu, Jingya Wang, Ye
 <!-- - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2021.09 - 2025.06 (now)*, a CS undergraduate at School of Information and Technology at ShanghaiTech University. 
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/education/skd.png' alt="sym" width="95%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<span style="font-size:18px;">**ShanghaiTech University**</span>
+
+*2025.09 - now*
+
+School of Information Science and Technology
+
+Major: M.S. in **Computer Science**
+
+MoE Key Laboratory of Intelligent Perception and Human Machine Collaboration, VDI Center, YesAI Lab
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/education/skd.png' alt="sym" width="95%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<span style="font-size:18px;">**ShanghaiTech University**</span>
+
+*2021.09 - 2025.06*
+
+School of Information Science and Technology
+
+Major: B.E. in **Computer Science and Technology**
+
+</div>
+</div>
+
+
+<!-- - *2021.09 - 2025.06 (now)*, a CS undergraduate at School of Information and Technology at ShanghaiTech University.  -->
 <!-- - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 <!-- # 💬 Invited Talks
