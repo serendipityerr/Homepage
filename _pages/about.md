@@ -43,7 +43,7 @@ Please find my [CV](/pdf/Resume_English.pdf) here for more about my research pro
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025 Spotlight</div><img src='images/publication/UniDB_main.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**UniDB: A Unified Diffusion Bridge Framework via Stochastic Optimal Control, <span style="color:red;">ICML 2025 Spotlight.</span>**
+**UniDB: A Unified Diffusion Bridge Framework via Stochastic Optimal Control, <span style="color:red;">ICML 2025 Spotlight (313/12107, 2.6%).</span>**
 
 Kaizhen Zhu\#, **Mokai Pan\#**, Yuexin Ma, Yanwei Fu, Jingyi Yu, Jingya Wang, Ye Shi\*
 
