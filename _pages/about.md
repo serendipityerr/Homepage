@@ -74,7 +74,7 @@ Kaizhen Zhu\#, **Mokai Pan\#**, Yuexin Ma, Yanwei Fu, Jingyi Yu, Jingya Wang, Ye
 
 # 📖 Educations
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/education/skd.png' alt="sym" width="95%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><a href="https://www.shanghaitech.edu.cn" target="_blank"><img src='images/education/skd.png' alt="sym" width="95%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 <span style="font-size:18px;">**ShanghaiTech University**</span>
