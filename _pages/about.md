@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Hi, I'm a 4th-year CS undergraduate at School of Information and Technology at ShanghaiTech University. My research interests includes computer vision and machine learning. My current research focus is on Deep Generative Models such as **Diffusion Bridge Models** and **Flow Matching**.
+Hi, I'm a 1st-year CS Master student at School of Information and Technology at ShanghaiTech University under the supervision of [Prof. Ye Shi](https://shiye21.github.io/). My research interests includes computer vision and machine learning. My current research focus is on Deep Generative Models such as **Diffusion Bridge Models** and **Flow Matching**.
 
 I have published more than 1 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=YUULLMoAAAAJ'>google scholar citations <strong><span id='total_cit'>0+</span></strong></a>.
 
@@ -112,5 +112,6 @@ Major: B.E. in **Computer Science and Technology**
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Research and Internships
-- 2024.04 - now, Undergraduate student in YesAI Lab, [VDI Center](https://vdi.sist.shanghaitech.edu.cn/) at ShanghaiTech University, Advisor: [Prof. Ye Shi(石野)](https://shiye21.github.io/)
+# 💻 Research and Internships、
+- 2025.09 - now, Master student in YesAI Lab, [VDI Center](https://vdi.sist.shanghaitech.edu.cn/) at ShanghaiTech University, Advisor: [Prof. Ye Shi(石野)](https://shiye21.github.io/)
+- 2024.04 - 2025.09, Undergraduate student in YesAI Lab, [VDI Center](https://vdi.sist.shanghaitech.edu.cn/) at ShanghaiTech University, Advisor: [Prof. Ye Shi(石野)](https://shiye21.github.io/)
