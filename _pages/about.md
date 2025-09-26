@@ -72,6 +72,10 @@ Kaizhen Zhu\#, **Mokai Pan\#**, Yuexin Ma, Yanwei Fu, Jingyi Yu, Jingya Wang, Ye
 - *2021.11* Second Prize in "Chinese Mathematics Competitions". 
 <!-- - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
+# 💼 Activities
+- **Reviewer**: 
+  + ICLR 2026
+
 # 📖 Educations
 
 <div class='paper-box'><div class='paper-box-image'><div><a href="https://www.shanghaitech.edu.cn" target="_blank"><img src='images/education/skd.png' alt="sym" width="95%"></a></div></div>
@@ -104,9 +108,7 @@ Major: B.E. in **Computer Science and Technology**
 </div>
 </div>
 
-# 💼 Activities
-- **Reviewer**: 
-  + ICLR 2026
+
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
