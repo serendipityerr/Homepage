@@ -69,6 +69,7 @@ Kaizhen Zhu\#, **Mokai Pan\#**, Yuexin Ma, Yanwei Fu, Jingyi Yu, Jingya Wang, Ye
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
+- *2025.06* SIST Outstanding Graduation Project.
 - *2021.11* Second Prize in "Chinese Mathematics Competitions". 
 <!-- - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
@@ -114,7 +115,7 @@ Major: B.E. in **Computer Science and Technology**
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Research and Internships、
+# 💻 Research and Internships
 - 2025.09 - now, Master student in YesAI Lab, [VDI Center](https://vdi.sist.shanghaitech.edu.cn/) at ShanghaiTech University, Advisor: [Prof. Ye Shi(石野)](https://shiye21.github.io/)
 - 2024.04 - 2025.09, Undergraduate student in YesAI Lab, [VDI Center](https://vdi.sist.shanghaitech.edu.cn/) at ShanghaiTech University, Advisor: [Prof. Ye Shi(石野)](https://shiye21.github.io/)
 
