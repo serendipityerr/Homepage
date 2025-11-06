@@ -74,7 +74,7 @@ Kaizhen Zhu\#, **Mokai Pan\#**, Yuexin Ma, Yanwei Fu, Jingyi Yu, Jingya Wang, Ye
 <!-- - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 💼 Activities
-- **Reviewer**: 
+- **Program committee**: 
   + ICLR 2026
 
 # 📖 Educations
