@@ -70,6 +70,7 @@ Kaizhen Zhu\#, **Mokai Pan\#**, Yuexin Ma, Yanwei Fu, Jingyi Yu, Jingya Wang, Ye
 
 # 🎖 Honors and Awards
 - *2025.06* SIST Outstanding Bachelor's Thesis.
+- *2025.04* ICLR 2025 DeLTa Workshop Outstanding Paper Award.
 - *2021.11* Second Prize in "Chinese Mathematics Competitions". 
 <!-- - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
