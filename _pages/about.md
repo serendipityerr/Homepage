@@ -50,6 +50,7 @@ Kaizhen Zhu\#, **Mokai Pan\#**, Yuexin Ma, Yanwei Fu, Jingyi Yu, Jingya Wang, Ye
 [[**paper**]](https://arxiv.org/abs/2502.05749)
 [[**project**]](https://unidb-soc.github.io/UniDB_page)
 [[**code**]](https://github.com/UniDB-SOC/UniDB)
+[![Stars](https://img.shields.io/github/stars/UniDB-SOC/UniDB)](https://github.com/UniDB-SOC/UniDB)
 
 </div>
 </div>
