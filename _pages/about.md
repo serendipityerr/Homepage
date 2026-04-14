@@ -83,8 +83,8 @@ Kaizhen Zhu\#, **Mokai Pan\#**, Yuexin Ma, Yanwei Fu, Jingyi Yu, Jingya Wang, Ye
   + Numerical Optimization (SI152), ShanghaiTech University, 2026 Spring.
 
 - **Volunteer**:
-  + Shanghai Marathon, 2022.
   + Shanghai Half Marathon, 2026.
+  + Shanghai Marathon, 2022.
 
 # 📖 Educations
 
