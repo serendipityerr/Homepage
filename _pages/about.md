@@ -77,7 +77,14 @@ Kaizhen Zhu\#, **Mokai Pan\#**, Yuexin Ma, Yanwei Fu, Jingyi Yu, Jingya Wang, Ye
 
 # 💼 Activities
 - **Program committee**: 
-  + ICLR 2026
+  + ICLR 2026.
+
+- **Teaching Assistant**:
+  + Numerical Optimization (SI152), ShanghaiTech University, 2026 Spring.
+
+- **Volunteer**:
+  + Shanghai Marathon, 2022.
+  + Shanghai Half Marathon, 2026.
 
 # 📖 Educations
 
