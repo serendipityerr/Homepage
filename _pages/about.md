@@ -46,7 +46,7 @@ I have published more than 3 papers at the top international AI conferences with
       <div class="badge">
         ICML 2026 Poster
       </div>
-      <img src='images/publication/BridgePolicy_main.png' alt="sym" width="100%">
+      <img src='images/publication/BridgePolicy_main.png' alt="sym" width="90%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -96,7 +96,7 @@ I have published more than 3 papers at the top international AI conferences with
 
   Kaizhen Zhu\#, **Mokai Pan\#**, Yuexin Ma, Yanwei Fu, Jingyi Yu, Jingya Wang, Ye Shi\*
 
-  [[**paper**]](https://arxiv.org/abs/2502.05749)
+  [[**paper**]](https://arxiv.org/pdf/2502.05749)
   [[**project**]](https://unidb-soc.github.io/UniDB_page)
   [[**code**]](https://github.com/UniDB-SOC/UniDB)
   [![Stars](https://img.shields.io/github/stars/UniDB-SOC/UniDB)](https://github.com/UniDB-SOC/UniDB)
