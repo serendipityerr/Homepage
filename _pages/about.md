@@ -55,9 +55,6 @@ I have published more than 1 papers at the top international AI conferences with
   Zhaoyang Liu, **Mokai Pan**, Zhongyi Wang, Kaizhen Zhu, Haotao Lu, Haipeng Zhang, Jingya Wang, Ye Shi\*
 
   [[**paper**]](https://arxiv.org/pdf/2512.07212)
-  <!-- [[**project**]](https://unidb-soc.github.io/UniDB_page) -->
-  <!-- [[**code**]](https://github.com/UniDB-SOC/UniDB) -->
-  <!-- [![Stars](https://img.shields.io/github/stars/UniDB-SOC/UniDB)](https://github.com/UniDB-SOC/UniDB) -->
   </div>
 </div>
 
@@ -76,9 +73,6 @@ I have published more than 1 papers at the top international AI conferences with
   Kaizhen Zhu\#, **Mokai Pan\#**, Zhechuan Yu, Jingyi Yu, Jingya Wang, Ye Shi\*
 
   [[**paper**]](https://arxiv.org/pdf/2509.24531)
-  <!-- [[**project**]](https://unidb-soc.github.io/UniDB_page) -->
-  <!-- [[**code**]](https://github.com/UniDB-SOC/UniDB) -->
-  <!-- [![Stars](https://img.shields.io/github/stars/UniDB-SOC/UniDB)](https://github.com/UniDB-SOC/UniDB) -->
   </div>
 </div> -->
 
