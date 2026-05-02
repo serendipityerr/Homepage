@@ -40,13 +40,13 @@ I have published more than 1 papers at the top international AI conferences with
 
 # 📝 Publications 
 
-<!-- <div class='paper-box'>
+<div class='paper-box'>
   <div class='paper-box-image'>
     <div>
       <div class="badge">
         ICML 2026 Poster
       </div>
-      <img src='images/publication/BridgePolicy_main.png' alt="sym" width="100%">
+      <img src='images/publication/BP_main.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -64,7 +64,7 @@ I have published more than 1 papers at the top international AI conferences with
       <div class="badge">
         ICML 2026 Poster
       </div>
-      <img src='images/publication/DB_vs_FM_main.png' alt="sym" width="100%">
+      <img src='images/publication/DF_main.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -74,7 +74,7 @@ I have published more than 1 papers at the top international AI conferences with
 
   [[**paper**]](https://arxiv.org/pdf/2509.24531)
   </div>
-</div> -->
+</div>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
