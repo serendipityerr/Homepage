@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 Hi, I'm a 1st-year CS Master student at School of Information and Technology at ShanghaiTech University under the supervision of [Prof. Ye Shi](https://shiye21.github.io/). My research interests includes computer vision and machine learning. My current research focus is on Deep Generative Models such as **Diffusion Bridge Models** and **Flow Matching**.
 
-I have published more than 1 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=YUULLMoAAAAJ'>google scholar citations <strong><span id='total_cit'>0+</span></strong></a>. Feel free to contact me for any questions or opportunities. :P
+I have published more than 3 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=YUULLMoAAAAJ'>google scholar citations <strong><span id='total_cit'>0+</span></strong></a>. Feel free to contact me for any questions or opportunities. :P
 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>0+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -31,7 +31,7 @@ I have published more than 1 papers at the top international AI conferences with
 
 
 # 🔥 News
-<!-- - *2026.05*: Our papers **Sample from What You See: Visuomotor Policy Learning via Diffusion Bridge with Observation-Embedded Stochastic Differential Equation** and **Diffusion Bridge or Flow Matching? A Unifying Framework and Comparative Analysis** were accepted by **ICML 2026**!🎉🎉 -->
+- *2026.05*: Our papers **Sample from What You See: Visuomotor Policy Learning via Diffusion Bridge with Observation-Embedded Stochastic Differential Equation** and **Diffusion Bridge or Flow Matching? A Unifying Framework and Comparative Analysis** were accepted by **ICML 2026**!🎉🎉
 - *2025.05*: Our paper **UniDB: A Unified Diffusion Bridge Framework via Stochastic Optimal Control** was accepted by **ICML 2025** as a **Spotlight**!🎉🎉
 - *2025.04*: Our paper **UniDB** won **Outstanding Paper Award** of **ICLR 2025 DeLTa Workshop**!🎉🎉
 
@@ -46,7 +46,7 @@ I have published more than 1 papers at the top international AI conferences with
       <div class="badge">
         ICML 2026 Poster
       </div>
-      <img src='images/publication/BP_main.png' alt="sym" width="100%">
+      <img src='images/publication/BridgePolicy_main.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -64,7 +64,7 @@ I have published more than 1 papers at the top international AI conferences with
       <div class="badge">
         ICML 2026 Poster
       </div>
-      <img src='images/publication/DF_main.png' alt="sym" width="100%">
+      <img src='images/publication/DB_vs_FM_main.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
