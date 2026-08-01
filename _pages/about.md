@@ -55,6 +55,7 @@ I have published more than 3 papers at the top international AI conferences with
   Zhaoyang Liu, **Mokai Pan**, Zhongyi Wang, Kaizhen Zhu, Haotao Lu, Haipeng Zhang, Jingya Wang, Ye Shi\*
 
   [[**paper**]](https://arxiv.org/pdf/2512.07212)
+  [[**code**]](https://github.com/jianghcsr/BridgePolicy)
   </div>
 </div>
 
@@ -73,6 +74,7 @@ I have published more than 3 papers at the top international AI conferences with
   Kaizhen Zhu\#, **Mokai Pan\#**, Zhechuan Yu, Jingyi Yu, Jingya Wang, Ye Shi\*
 
   [[**paper**]](https://arxiv.org/pdf/2509.24531)
+  [[**code**]](https://github.com/zhukaizhen/diffusion_bridge_flow_matching)
   </div>
 </div>
 
@@ -120,6 +122,9 @@ I have published more than 3 papers at the top international AI conferences with
 # 💼 Activities
 - **Program committee**: 
   + ICLR 2026.
+
+- **Reviewer**:
+  + IEEE Robotics and Automation Letters (RA-L)
 
 - **Teaching Assistant**:
   + Numerical Optimization (SI152), ShanghaiTech University, 2026 Spring.
