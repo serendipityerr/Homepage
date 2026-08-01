@@ -123,8 +123,8 @@ I have published more than 3 papers at the top international AI conferences with
 - **Program committee**: 
   + ICLR 2026.
 
-- **Reviewer**:
-  + IEEE Robotics and Automation Letters (RA-L)
+<!-- - **Reviewer**:
+  + IEEE Robotics and Automation Letters (RA-L) -->
 
 - **Teaching Assistant**:
   + Numerical Optimization (SI152), ShanghaiTech University, 2026 Spring.
