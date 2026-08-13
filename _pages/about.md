@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Hi, I'm a 1st-year CS Master student at School of Information and Technology at ShanghaiTech University under the supervision of [Prof. Ye Shi](https://shiye21.github.io/). My research interests includes computer vision and machine learning. My current research focus is on Deep Generative Models such as **Diffusion Bridge Models** and **Flow Matching**.
+Hi, I'm a 1st-year CS Master student at School of Information and Technology at ShanghaiTech University under the supervision of [Prof. Ye Shi](https://shiye21.github.io/). My research interests includes computer vision and machine learning. My current research focus is on Deep Generative Models such as **Diffusion Bridge Models**, **Flow Matching**, and **Stochastic Optimal Control**.
 
 I have published more than 3 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=YUULLMoAAAAJ'>google scholar citations <strong><span id='total_cit'>0+</span></strong></a>. Feel free to contact me for any questions or opportunities. :P
 
@@ -123,8 +123,8 @@ I have published more than 3 papers at the top international AI conferences with
 - **Program committee**: 
   + ICLR 2026.
 
-<!-- - **Reviewer**:
-  + IEEE Robotics and Automation Letters (RA-L) -->
+- **Reviewer**:
+  + IEEE Robotics and Automation Letters (RA-L)
 
 - **Teaching Assistant**:
   + Numerical Optimization (SI152), ShanghaiTech University, 2026 Spring.
