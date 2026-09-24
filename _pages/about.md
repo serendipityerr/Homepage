@@ -31,6 +31,7 @@ I have published more than 3 papers at the top international AI conferences with
 
 
 # 🔥 News
+<!-- - *2026.06*: Our paper **A Unified and Fast-Sampling Diffusion Bridge Framework via Stochastic Optimal Control** accepted by **IEEE TPAMI 2026**!🎉🎉 -->
 - *2026.05*: Our papers **Sample from What You See: Visuomotor Policy Learning via Diffusion Bridge with Observation-Embedded Stochastic Differential Equation** and **Diffusion Bridge or Flow Matching? A Unifying Framework and Comparative Analysis** were accepted by **ICML 2026**!🎉🎉
 - *2025.05*: Our paper **UniDB: A Unified Diffusion Bridge Framework via Stochastic Optimal Control** was accepted by **ICML 2025** as a **Spotlight**!🎉🎉
 - *2025.04*: Our paper **UniDB** won **Outstanding Paper Award** of **ICLR 2025 DeLTa Workshop**!🎉🎉
@@ -39,6 +40,25 @@ I have published more than 3 papers at the top international AI conferences with
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
+
+<!-- <div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">
+        IEEE TPAMI 2026
+      </div>
+      <img src='images/publication/UniDB_plus_plus_main.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  **A Unified and Fast-Sampling Diffusion Bridge Framework via Stochastic Optimal Control, <span style="color:red;">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 2026.</span>**
+
+  **Mokai Pan\#**, Kaizhen Zhu\#, Yuexin Ma, Yanwei Fu, Jingyi Yu, Jingya Wang, Ye Shi\*
+
+  [[**paper**]](https://ieeexplore.ieee.org/abstract/document/11597866)
+  [[**code**]](https://github.com/2769433owo/UniDB-plusplus)
+  </div>
+</div> -->
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -127,7 +147,9 @@ I have published more than 3 papers at the top international AI conferences with
   + IEEE Robotics and Automation Letters (RA-L).
 
 - **Teaching Assistant**:
+  + Convex Optimization (SI251), ShanghaiTech University, 2026 Fall.
   + Numerical Optimization (SI152), ShanghaiTech University, 2026 Spring.
+
 
 - **Volunteer**:
   + Shanghai Half Marathon, 2026.
